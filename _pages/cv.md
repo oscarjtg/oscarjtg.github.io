@@ -11,41 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* DPhil (PhD) in Physics, University of Oxford, 2026 (expected)
+* MSci in Natural Sciences (Part III Physics), University of Cambridge, 2022
+* BA in Natural Sciences, University of Cambridge, 2021
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: CERN Summer Student
+  * CERN
+  * Project title: Setting limits on quark contact interaction scales from ATLAS inclusive jet cross-section measurements
+  * Supervisors: Dr Tancredi Carli, Dr Bogdan Malaescu
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computing: Python [numpy, matplotlib, pandas, netCDF4]
+* Languages: English (native), Spanish (fluent)
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Talks
 ======
@@ -53,12 +39,12 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+Scholarships and Funding
 ======
-* Currently signed in to 43 different slack teams
+* UKRI, NERC Doctoral Training Partnership, 2022-2026
