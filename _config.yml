@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-UK"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "oscarjtg.github.io"
+site_theme               : "air" # Currently available options are "default", "air"
+title                    : "Oscar Tovey Garcia"
 title_separator          : "-"
-name                     : &name "Oscar T.G."
+name                     : &name "Oscar Tovey Garcia"
 description              : &description "personal description"
 url                      : https://oscarjtg.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,12 +22,12 @@ repository               : "oscarjtg/oscarjtg.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Oscar T.G."
+  avatar           : "profile.jpg"
+  name             : "Oscar Tovey Garcia"
   pronouns         : # example: "she/her"  
   bio              : "Graduate student researching glacier-ocean interaction"
   location         : # "Earth"
-  employer         : # "Red Brick University"
+  employer         : "University of Oxford"
   uri              : # URL
   email            : # "none@example.org" 
 
@@ -91,7 +91,7 @@ publication_category:
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false # if true, blog posts in the future appear before scheduled
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
