@@ -27,11 +27,11 @@ Skills
 * Computing: Python [numpy, matplotlib, pandas, netCDF4]
 * Languages: English (native), Spanish (fluent)
 
-<!-- Publications
+Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
   
 Talks
 ======
