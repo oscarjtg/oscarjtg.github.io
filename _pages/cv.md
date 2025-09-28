@@ -13,18 +13,31 @@ Education
 ======
 * DPhil (PhD) in Physics, University of Oxford, 2026 (expected)
 * MSci in Natural Sciences (Part III Physics), University of Cambridge, 2022
-* BA in Natural Sciences, University of Cambridge, 2021
+* BA in Natural Sciences (Part II Physics), University of Cambridge, 2021
 
 Research experience
 ======
-* Summer 2021: CERN Summer Student
-  * CERN
-  * Project title: Setting limits on quark contact interaction scales from ATLAS inclusive jet cross-section measurements
-  * Supervisors: Dr Tancredi Carli, Dr Bogdan Malaescu
+* 2022-2026: DPhil (PhD) student, University of Oxford
+  * Project title: Modelling iceberg capsize in glacial fjords
+  * Supervisor: Professor Andrew Wells
+
+* 2022: MSci student, Department of Physics, University of Cambridge
+  * Project title: Radiation belt modelling using Ensemble Kalman Filters
+  * Supervisor: Dr Johnathan Ross
+
+* Summer 2021: Summer student, CERN
+  * Project title: Setting limits on quark Contact Interaction scales from ATLAS inclusive jet cross section measurements
+  * Supervisor: Dr Tancredi Carli
   
+* Summer 2020: Summer student, Department of Physics, University of Cambridge
+  * Project title:  Characterising the Ge(001) surface using He-3 spin echo spectrometry data
+  * Supervisor: Dr Holly Hedgeland
+
 Skills
 ======
-* Computing: Python [numpy, matplotlib, pandas, netCDF4]
+* Mathematics: Linear algebra, calculus, differential equations, probability, statistics
+* Computing: Python (numpy, pandas, scipy, matplotlib), C++, Julia
+* Parallel computing: limited experience with MPI and CUDA
 * Languages: English (native), Spanish (fluent)
 
 Publications
